@@ -6,7 +6,7 @@ Waraqah gives each user a private, structured notebook: capture the hadith text 
 
 ## Live URL
 
-🔗 **[Add your deployed Vercel URL here after deployment]**
+🔗 **[https://waraqah-mu.vercel.app](https://waraqah-mu.vercel.app)**
 
 ## Features
 
